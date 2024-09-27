@@ -9,7 +9,8 @@
 - 🌱 I’m currently learning ...
   Java,
   Computer Architecture,
-  Software Engineering Processes
+  Software Engineering Processes,
+  Data Structures
   
 - 💞️ I’m looking to collaborate on ...
   Any project that improves quality of life for someone. I recently had some ideas to help those who suffer from alzheimers, but I have not had the time to pursue them.
