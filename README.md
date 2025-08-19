@@ -1,16 +1,16 @@
 
 
 - 👋 Hi, I’m @tayrocket'
-  An undergraduate student studying Computer Science. I am just learning the ropes of github! 
+  A recent graduate with a Bachelors in Computer Science. I am just learning the ropes of github! 
   
 - 👀 I’m interested in ...
   So many things! Currently, I have not chosen a particular field in my degree plan, and am open to trying new things and discovering my passion.
 
 - 🌱 I’m currently learning ...
-  Java,
-  Computer Architecture,
-  Software Engineering Processes,
-  Data Structures
+  JavaScript,
+  TypeScript,
+  React,
+  Playwright
   
 - 💞️ I’m looking to collaborate on ...
   Any project that improves quality of life for someone. I recently had some ideas to help those who suffer from alzheimers, but I have not had the time to pursue them.
